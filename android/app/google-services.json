@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "216404361528",
+    "project_id": "nemesis-cbd38",
+    "storage_bucket": "nemesis-cbd38.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:216404361528:android:1e1242001b58edf29881cd",
+        "android_client_info": {
+          "package_name": "com.kaiitech.scam_investigator"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "216404361528-f2jhe141v79hepi8vo991usd2qj78k2m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kaiitech.scam_investigator",
+            "certificate_hash": "e666dcc3244ef10d55088e8636c6d36df574b992"
+          }
+        },
+        {
+          "client_id": "216404361528-ghjef9vnek05a8fo9rg2ugigon0cg4v0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAODRgozaZ_In9J4UJfvTuABJYZWuR9s2I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "216404361528-ghjef9vnek05a8fo9rg2ugigon0cg4v0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
